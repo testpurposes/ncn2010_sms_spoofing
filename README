@@ -1,0 +1,16 @@
+= SMS Spoofing NcN 2010
+
+== Explotación en Android
+
+Trabajo basado en la presentación de Eloi Sanfelix y Javier Moreno "Seguridad y explotación nativa en android".
+
+* <b>android_stack_tb.rb:</b> El exploit original de Eloi Sanfelix y Javier Moreno, con la "Ret" modificada para obtener el control con el desbordamiento en nuestro entorno Android 1.6 (API level 4).
+
+* <b>android_stack_tb_http.rb:</b> El módulo utilizado durante la presentación de SMS Spoofing. Es el exploit anterior, modificado para servirse a través de una app Web, que comprueba el user-agent y si es un android 1.6 intenta explotar la vulnerabilidad.
+
+* <b>android_sample.py:</b> El launcher del metasploit anterior para SET. 
+
+Enlaces relacionados:
+
+* http://www.slideshare.net/rootedcon/javier-moreno-eloi-sanflix-seguridad-y-explotacin-nativa-en-android-rootedcon-2010
+* http://testpurposes.net/2010/10/24/no-con-name-2010/
