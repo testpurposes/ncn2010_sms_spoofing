@@ -13,4 +13,5 @@ Trabajo basado en la presentación de Eloi Sanfelix y Javier Moreno "Seguridad y
 Enlaces relacionados:
 
 * http://www.slideshare.net/rootedcon/javier-moreno-eloi-sanflix-seguridad-y-explotacin-nativa-en-android-rootedcon-2010
+* http://testpurposes.net/2010/12/05/explotacion-en-android-y-set/
 * http://testpurposes.net/2010/10/24/no-con-name-2010/
